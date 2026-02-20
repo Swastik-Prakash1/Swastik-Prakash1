@@ -4,7 +4,7 @@
 
   <br><br>
 
-  # 🚀 Hi there, I'm Swastik Prakash <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" />
+  # 🚀 Hi there, I'm Swastik Prakash <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="35" />
   ### Visionary AI/ML Engineer | Building Solutions for Millions
   
   <p align="center">
@@ -25,12 +25,12 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="30" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="30" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="30" />
 </div>
 
-## 🧠 About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="30" />
+## 🧠 About Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92f/512.gif" alt="🤯" width="35" />
 
 I am a Computer Science undergraduate (B.Tech CSE '27) dedicated entirely to the future of Artificial Intelligence and Machine Learning. I don't just write code; I build **innovative, highly impactful AI systems** designed to solve real-world problems and ultimately improve millions of lives. Currently, I architect these solutions via web platforms, with a strong roadmap toward mobile application deployment. 
 
@@ -42,7 +42,7 @@ I am a Computer Science undergraduate (B.Tech CSE '27) dedicated entirely to the
 
 ---
 
-## 🛠️ Technology Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" />
+## 🛠️ Technology Stack <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="35" />
 
 <div align="center">
   
@@ -71,26 +71,16 @@ I am a Computer Science undergraduate (B.Tech CSE '27) dedicated entirely to the
 
 ---
 
-## 📊 GitHub Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" />
+## 📊 GitHub Analytics <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swastik-Prakash1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik-Prakash1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swastik-Prakash1/Swastik-Prakash1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swastik-Prakash1/Swastik-Prakash1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Swastik-Prakash1/Swastik-Prakash1/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Swastik-Prakash1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik-Prakash1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
 
-## 💡 Featured Innovations <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="30" />
+## 💡 Featured Innovations <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="35" />
 
 ### 🛡️ Should I? (AI Trust Analysis System)
 Built an NLP-driven trust analysis engine utilizing **RoBERTa-based models** to combat fake reviews. Designed robust inference pipelines that aggregate linguistic and behavioral signals across 1000+ reviews per product, processing noisy real-world e-commerce data into deterministic trust scores.
@@ -103,7 +93,7 @@ Architected machine learning models to forecast vehicle component failures. Inte
 
 ---
 
-## 🏆 Hackathons & Certifications <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" />
+## 🏆 Hackathons & Certifications <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="35" />
 
 * **Hackathon Competitor:** Actively build solutions at premier hackathons, including **Amazon** and **EY**. 
 * **Oracle Certified AI Foundations Associate (OCI)**
