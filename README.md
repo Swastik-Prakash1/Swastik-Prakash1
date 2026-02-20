@@ -71,22 +71,11 @@ I am a Computer Science undergraduate (B.Tech CSE '27) dedicated entirely to the
 
 ---
 
-## 📊 GitHub Analytics <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" />
+## 💻 Top Languages & Tools <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" />
 
 <div align="center">
-  <a href="https://github.com/Swastik-Prakash1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Swastik-Prakash1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="195" />
-  </a>
-  <a href="https://github.com/Swastik-Prakash1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik-Prakash1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Swastik-Prakash1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik-Prakash1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,flask,gcp,mysql,git&theme=dark&perline=5" alt="Language Logos" />
   </a>
 </div>
 
