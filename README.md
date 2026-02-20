@@ -4,7 +4,7 @@
 
   <br><br>
 
-  # 🚀 Hi there, I'm Swastik Prakash 🤖
+  # 🚀 Hi there, I'm Swastik Prakash <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="35" />
   ### Visionary AI/ML Engineer | Building Solutions for Millions
   
   <p align="center">
@@ -19,16 +19,18 @@
     </a>
   </p>
   
-  > **Applied Machine Learning | NLP Systems & Transformer Models | Building Real-World AI Pipelines**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Applied+Machine+Learning;NLP+Systems+%26+Transformer+Models;Building+Real-World+AI+Pipelines;Transitioning+Web+AI+to+Mobile+Apps" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  ⚡ ⚡ ⚡
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="30" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="30" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="30" />
 </div>
 
-## 🧠 About Me 🤯
+## 🧠 About Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92f/512.gif" alt="🤯" width="35" />
 
 I am a Computer Science undergraduate (B.Tech CSE '27) dedicated entirely to the future of Artificial Intelligence and Machine Learning. I don't just write code; I build **innovative, highly impactful AI systems** designed to solve real-world problems and ultimately improve millions of lives. Currently, I architect these solutions via web platforms, with a strong roadmap toward mobile application deployment. 
 
@@ -40,7 +42,7 @@ I am a Computer Science undergraduate (B.Tech CSE '27) dedicated entirely to the
 
 ---
 
-## 🛠️ Technology Stack 💻
+## 🛠️ Technology Stack <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="35" />
 
 <div align="center">
   
@@ -69,14 +71,14 @@ I am a Computer Science undergraduate (B.Tech CSE '27) dedicated entirely to the
 
 ---
 
-## 📊 GitHub Analytics 🚀
+## 📊 GitHub Analytics <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" />
 
 <div align="center">
   <a href="https://github.com/Swastik-Prakash1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Swastik-Prakash1&show_icons=true&theme=dark&hide_border=true&v=1" alt="GitHub Stats" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Swastik-Prakash1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="195" />
   </a>
   <a href="https://github.com/Swastik-Prakash1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik-Prakash1&theme=dark&hide_border=true&v=1" alt="GitHub Streak" height="195" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik-Prakash1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
   </a>
 </div>
 
@@ -84,13 +86,13 @@ I am a Computer Science undergraduate (B.Tech CSE '27) dedicated entirely to the
 
 <div align="center">
   <a href="https://github.com/Swastik-Prakash1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik-Prakash1&layout=compact&theme=dark&hide_border=true&v=1" alt="Top Languages" width="60%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik-Prakash1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="60%" />
   </a>
 </div>
 
 ---
 
-## 💡 Featured Innovations 💡
+## 💡 Featured Innovations <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="35" />
 
 ### 🛡️ Should I? (AI Trust Analysis System)
 Built an NLP-driven trust analysis engine utilizing **RoBERTa-based models** to combat fake reviews. Designed robust inference pipelines that aggregate linguistic and behavioral signals across 1000+ reviews per product, processing noisy real-world e-commerce data into deterministic trust scores.
@@ -103,7 +105,7 @@ Architected machine learning models to forecast vehicle component failures. Inte
 
 ---
 
-## 🏆 Hackathons & Certifications 🏆
+## 🏆 Hackathons & Certifications <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="35" />
 
 * **Hackathon Competitor:** Actively build solutions at premier hackathons, including **Amazon** and **EY**. 
 * **Oracle Certified AI Foundations Associate (OCI)**
