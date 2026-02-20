@@ -74,20 +74,23 @@ I am a Computer Science undergraduate (B.Tech CSE '27) dedicated entirely to the
 ## 📊 GitHub Analytics <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" />
 
 <div align="center">
-  <a href="https://github.com/Swastik-Prakash1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Swastik-Prakash1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="195" />
-  </a>
-  <a href="https://github.com/Swastik-Prakash1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik-Prakash1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
-  </a>
+  <h3>📈 Contribution Summary</h3>
+  <p>
+    <b>🌟 Total Contributions:</b> 57 <br>
+    <b>🔥 Current Streak:</b> 2 Days <br>
+    <b>🏆 Longest Streak:</b> 3 Days <br>
+  </p>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/Swastik-Prakash1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik-Prakash1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="60%" />
-  </a>
+  <h3>💻 Top Languages Used</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ---
