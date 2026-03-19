@@ -1,145 +1,106 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="AI Banner" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Banner" />
   <br/><br/>
 
-  # 🚀 Swastik Prakash <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="30" />
-  ### AI/ML Engineer • NLP + Multimodal Systems • Scalable Applied Intelligence
+  # Swastik Prakash
+  ### AI/ML Engineer · NLP · Multimodal Systems
 
   <p align="center">
     <a href="mailto:swastikprakashofficial@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/swastik-prakash-8aa692290/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/Swastik-Prakash1">
-      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://x.com/Im_Swastik01">
-      <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+      <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00FF99&center=true&vCenter=true&width=800&lines=Building+AI+Systems+for+Real-World+Impact;NLP+Pipelines+%7C+Multimodal+Intelligence+%7C+LLM+Integration;From+Model+Design+to+Production+Deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00FF99&center=true&vCenter=true&width=800&lines=NLP+Pipelines+%7C+Multimodal+AI+%7C+LLM+Integration;Model+Design+to+Production+Deployment;B.Tech+CSE+%40+JIIT+%7C+Class+of+2027" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🧠 Overview
+## About
 
-I’m a **B.Tech CSE undergraduate (Class of 2027)** focused on building reliable, scalable AI systems that solve practical problems.  
-My work spans:
+B.Tech CSE undergrad at JIIT (2027), working on AI systems that actually get deployed — not just trained.
 
-- **Applied NLP** (semantic similarity, trust analysis, LLM workflows)
-- **Multimodal AI systems** (text + speech + vision)
-- **End-to-end engineering** (model pipelines, APIs, deployment, cloud integration)
+I focus on **NLP pipelines**, **multimodal AI**, and **backend engineering for ML systems**. Most of my projects involve getting a model from a notebook into something a real user can hit.
 
-🎯 I’m actively looking to contribute to **GSoC/open-source AI & developer tooling projects** where system thinking and execution quality matter.
+- 🥇 **1st Place** — Build with Gemini × MLH, Zetech HackDay (International, 2026)
+- Currently building in the open — check the pinned repos below
 
 ---
 
-## 🛠️ Technology Stack
+## Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
+**Languages**
+
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql&theme=dark" />
 
-### 🤖 AI / ML / Data Science
+**AI / ML**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Transformers-RoBERTa-FFAA00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Pipelines-FFAA00?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Scikit--Learn-ML%20Modeling-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-Vision%20Inference-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%20Integration-OpenAI%20%7C%20Gemini-10A37F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hugging%20Face-Pipelines-FFAA00?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
-### ⚙️ Backend / Systems
-<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,git&theme=dark" />
-<img src="https://img.shields.io/badge/REST%20APIs-System%20Design-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Pipelines-Production%20Workflows-4CAF50?style=for-the-badge" />
+**Backend / Infra**
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,linux,bash&theme=dark" />
-<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Versioning-Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,git,docker,gcp,linux,bash&theme=dark" />
 
 </div>
 
+---
+
+## Projects
+
+### 🏥 MediMind — Clinical Triage System
+**Python · Flask · OpenAI API · GCP**
+
+Multimodal triage system with LLM reasoning and persistent patient context. The hard part was designing the SOS override — it had to interrupt any mid-conversation flow instantly and route to emergency handling without state corruption. Also generates SOAP notes automatically from unstructured interaction logs.
 
 ---
 
-## 📌 Top Focus Areas
+### 🛡️ Should I? — Fake Review Detector
+**Python · RoBERTa · Flask · REST APIs**
 
-- ✅ Production-grade **AI backend engineering**
-- ✅ **Model inference optimization** and reliability
-- ✅ **Scalable API architecture** for ML systems
-- ✅ **Open-source contribution readiness** (clean code, docs, reproducibility)
+Runs a full NLP pipeline over 1000+ reviews per product and outputs a trust score built from linguistic and behavioral signals. The challenge was making the preprocessing robust enough to handle real-world review data — lots of noise, inconsistent formatting, and adversarial phrasing patterns.
 
 ---
 
-## 💡 Featured Projects
+### 🎙️ AI Interview Assistant
+**Python · NLP · Speech Processing · ML**
 
-### 🏥 MediMind — AI Clinical Triage System
-**Python • Flask • OpenAI API • GCP**
-
-- Built a production-grade multimodal triage system with LLM reasoning and persistent context.
-- Designed real-time SOS override flow for immediate emergency handling.
-- Automated SOAP report generation from unstructured patient interaction logs.
+Scores interview responses using semantic similarity against rubric-defined benchmarks. Combines speech and visual input into a single evaluation workflow and outputs normalized candidate assessments across a full session.
 
 ---
 
-### 🛡️ Should I? — AI Trust Analysis System
-**Python • RoBERTa • Flask • REST APIs**
+## Certifications
 
-- Developed a fake-review detection pipeline processing **1000+ reviews/product**.
-- Built deterministic trust scoring from linguistic + behavioral anomaly signals.
-- Engineered robust preprocessing + feature pipelines for noisy real-world data.
-
----
-
-### 🎙️ AI Interview Assistant — Multimodal Evaluation
-**Python • NLP • Speech Processing • ML**
-
-- Designed semantic similarity-based scoring aligned to rubric-driven evaluation.
-- Combined speech + visual cues into unified candidate assessment workflows.
-- Generated normalized, bias-aware evaluation summaries at session scale.
+- Oracle Certified AI Foundations Associate (OCI)
+- Google Cloud Study Jam — GDSC
+- CDAC Noida — Cloud Computing Bootcamp (FutureSkills PRIME)
 
 ---
 
-## 🏆 Achievements & Certifications
+## Education
 
-- 🥇 **1st Place** — Build with Gemini × MLH, Zetech HackDay (International, 2026)
-- ✅ Oracle Certified AI Foundations Associate (OCI)
-- ✅ Google Cloud Study Jam — GDSC
-- ✅ CDAC Noida — Bootcamp on Cloud Computing (FutureSkills PRIME)
+**B.Tech Computer Science Engineering** — JIIT (Expected 2027)
 
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science Engineering** (Expected 2027)  
-Jaypee Institute of Information Technology (JIIT)
-
-Relevant coursework:  
-Data Structures & Algorithms • Machine Learning • Artificial Intelligence • Big Data Analytics
-
----
-
-## 🤝 Open Source / GSoC
-
-I’m actively interested in contributing to projects in:
-
-- AI/ML infrastructure
-- NLP tooling
-- Developer productivity platforms
-- Scalable backend systems for intelligent applications
-
-If your org needs a contributor who can move from **idea → architecture → implementation → deployment**, let’s connect.
+Data Structures & Algorithms · Machine Learning · Artificial Intelligence · Big Data Analytics
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Swastik-Prakash1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br/><br/>
-  <i>“Leveraging AI to engineer solutions that actively improve reality.”</i>
+  <i>I like working on things that are harder than they look.</i>
 </div>
