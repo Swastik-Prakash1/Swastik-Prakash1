@@ -1,115 +1,146 @@
 <div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="AI Tech Banner" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="AI Banner" />
+  <br/><br/>
 
-  <br><br>
+  # 🚀 Swastik Prakash <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="30" />
+  ### AI/ML Engineer • NLP + Multimodal Systems • Scalable Applied Intelligence
 
-  # 🚀 Hi there, I'm Swastik Prakash <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="35" />
-  ### Visionary AI/ML Engineer | Building Solutions for Millions
-  
   <p align="center">
-    <a href="mailto:swastikprakashofficial@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:swastikprakashofficial@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://www.linkedin.com/in/swastik-prakash-8aa692290/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/swastik-prakash-8aa692290/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://x.com/Im_Swastik01" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter_/_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <a href="https://github.com/Swastik-Prakash1">
+      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://instagram.com/swastik.226" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <a href="https://x.com/Im_Swastik01">
+      <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
     </a>
   </p>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Applied+Machine+Learning;NLP+Systems+%26+Transformer+Models;Building+Real-World+AI+Pipelines;Transitioning+Web+AI+to+Mobile+Apps" alt="Typing SVG" />
-</div>
 
-<br>
-
-<div align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="30" />
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="30" />
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="30" />
-</div>
-
-## 🧠 About Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92f/512.gif" alt="🤯" width="35" />
-
-I am a Computer Science undergraduate (B.Tech CSE '27) dedicated entirely to the future of Artificial Intelligence and Machine Learning. I don't just write code; I build **innovative, highly impactful AI systems** designed to solve real-world problems and ultimately improve millions of lives. Currently, I architect these solutions via web platforms, with a strong roadmap toward mobile application deployment. 
-
-**My Evolution Timeline:**
-- **Year 1:** 🧱 Mastered the fundamentals: C/C++ and Data Structures & Algorithms (DSA).
-- **Year 2:** 🤖 Dove deep into Machine Learning and Generative AI.
-- **Present:** 🚀 Architecting end-to-end model inference pipelines and real-world applied NLP systems.
-- **Future:** 🔮 Exclusively dedicated to pushing the boundaries of AI/ML.
-
----
-
-## 🛠️ Technology Stack <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="35" />
-
-<div align="center">
-  
-  **AI & Machine Learning** <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
-  
-  <br><br>
-  
-  **Backend & Data** <br>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-
-  <br><br>
-
-  **Web & Systems** <br>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00FF99&center=true&vCenter=true&width=800&lines=Building+AI+Systems+for+Real-World+Impact;NLP+Pipelines+%7C+Multimodal+Intelligence+%7C+LLM+Integration;From+Model+Design+to+Production+Deployment" alt="Typing SVG" />
 </div>
 
 ---
 
-## 💻 Top Languages & Tools <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" />
+## 🧠 Overview
+
+I’m a **B.Tech CSE undergraduate (Class of 2027)** focused on building reliable, scalable AI systems that solve practical problems.  
+My work spans:
+
+- **Applied NLP** (semantic similarity, trust analysis, LLM workflows)
+- **Multimodal AI systems** (text + speech + vision)
+- **End-to-end engineering** (model pipelines, APIs, deployment, cloud integration)
+
+🎯 I’m actively looking to contribute to **GSoC/open-source AI & developer tooling projects** where system thinking and execution quality matter.
+
+---
+
+## 🛠️ Technology Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,flask,gcp,mysql,git&theme=dark&perline=5" alt="Language Logos" />
-  </a>
+
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,sql&theme=dark" />
+
+### 🤖 AI / ML / Data Science
+<img src="https://img.shields.io/badge/Transformers-RoBERTa-FFAA00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Pipelines-FFAA00?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--Learn-ML%20Modeling-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-Vision%20Inference-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20Integration-OpenAI%20%7C%20Gemini-10A37F?style=for-the-badge" />
+
+### ⚙️ Backend / Systems
+<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,git&theme=dark" />
+<img src="https://img.shields.io/badge/REST%20APIs-System%20Design-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Pipelines-Production%20Workflows-4CAF50?style=for-the-badge" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,linux,bash&theme=dark" />
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Versioning-Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 </div>
 
----
-
-## 💡 Featured Innovations <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="35" />
-
-### 🛡️ Should I? (AI Trust Analysis System)
-Built an NLP-driven trust analysis engine utilizing **RoBERTa-based models** to combat fake reviews. Designed robust inference pipelines that aggregate linguistic and behavioral signals across 1000+ reviews per product, processing noisy real-world e-commerce data into deterministic trust scores.
-
-### 🎙️ AI Interview Assistant (Multimodal Evaluation System)
-Developed a comprehensive evaluation system to score candidate interview responses. Integrated speech and visual signals to extract linguistic features, combining multiple ML signals into structured, session-level assessment workflows.
-
-### ⚙️ AutoMind (Predictive Maintenance System)
-Architected machine learning models to forecast vehicle component failures. Integrated heterogeneous telematics and service data sources to build workflows for predictive maintenance, root cause analysis (RCA), and corrective feedback loops.
+> If you use additional DevOps tools (Kubernetes, Terraform, Jenkins, Nginx, Prometheus, Grafana), I can add them in v2 instantly.
 
 ---
 
-## 🏆 Hackathons & Certifications <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="35" />
+## 📌 Top Focus Areas
 
-* **Hackathon Competitor:** Actively build solutions at premier hackathons, including **Amazon** and **EY**. 
-* **Oracle Certified AI Foundations Associate (OCI)**
-* **Google Cloud Study Jam** — Google Developer Student Clubs
-* **Bootcamp on Cloud Computing** — CDAC Noida (FutureSkills PRIME)
+- ✅ Production-grade **AI backend engineering**
+- ✅ **Model inference optimization** and reliability
+- ✅ **Scalable API architecture** for ML systems
+- ✅ **Open-source contribution readiness** (clean code, docs, reproducibility)
 
-<br>
+---
+
+## 💡 Featured Projects
+
+### 🏥 MediMind — AI Clinical Triage System
+**Python • Flask • OpenAI API • GCP**
+
+- Built a production-grade multimodal triage system with LLM reasoning and persistent context.
+- Designed real-time SOS override flow for immediate emergency handling.
+- Automated SOAP report generation from unstructured patient interaction logs.
+
+---
+
+### 🛡️ Should I? — AI Trust Analysis System
+**Python • RoBERTa • Flask • REST APIs**
+
+- Developed a fake-review detection pipeline processing **1000+ reviews/product**.
+- Built deterministic trust scoring from linguistic + behavioral anomaly signals.
+- Engineered robust preprocessing + feature pipelines for noisy real-world data.
+
+---
+
+### 🎙️ AI Interview Assistant — Multimodal Evaluation
+**Python • NLP • Speech Processing • ML**
+
+- Designed semantic similarity-based scoring aligned to rubric-driven evaluation.
+- Combined speech + visual cues into unified candidate assessment workflows.
+- Generated normalized, bias-aware evaluation summaries at session scale.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **1st Place** — Build with Gemini × MLH, Zetech HackDay (International, 2026)
+- ✅ Oracle Certified AI Foundations Associate (OCI)
+- ✅ Google Cloud Study Jam — GDSC
+- ✅ CDAC Noida — Bootcamp on Cloud Computing (FutureSkills PRIME)
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science Engineering** (Expected 2027)  
+Jaypee Institute of Information Technology (JIIT)
+
+Relevant coursework:  
+Data Structures & Algorithms • Machine Learning • Artificial Intelligence • Big Data Analytics
+
+---
+
+## 🤝 Open Source / GSoC
+
+I’m actively interested in contributing to projects in:
+
+- AI/ML infrastructure
+- NLP tooling
+- Developer productivity platforms
+- Scalable backend systems for intelligent applications
+
+If your org needs a contributor who can move from **idea → architecture → implementation → deployment**, let’s connect.
+
+---
 
 <div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=Swastik-Prakash1&label=Profile%20Views&color=0e75b6&style=flat&icon=github" alt="Profile Views" />
-
-  <br><br>
-  <i>"Leveraging AI to engineer solutions that don't just exist, but actively improve reality."</i>
+  <img src="https://komarev.com/ghpvc/?username=Swastik-Prakash1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br/><br/>
+  <i>“Leveraging AI to engineer solutions that actively improve reality.”</i>
 </div>
