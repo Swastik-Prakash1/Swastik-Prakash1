@@ -65,7 +65,7 @@ My work spans:
 
 </div>
 
-> If you use additional DevOps tools (Kubernetes, Terraform, Jenkins, Nginx, Prometheus, Grafana), I can add them in v2 instantly.
+
 
 ---
 
