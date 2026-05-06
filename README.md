@@ -126,7 +126,7 @@ Data Structures & Algorithms • Machine Learning • Artificial Intelligence �
 
 ---
 
-## 🤝 Open Source / GSoC
+## 🤝 Open Source
 
 I’m actively interested in contributing to projects in:
 
