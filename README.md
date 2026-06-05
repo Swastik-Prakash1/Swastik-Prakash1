@@ -1,44 +1,59 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1230,80:0f1f4a,100:1a0533&height=200&section=header&text=Swastik%20Prakash&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20JIIT%20%2727&descSize=16&descFontColor=7eb8f7&descAlignY=62"/>
+<!-- HEADER — ✦ symbols + twinkling stars + vibrant purple gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,25:0a1240,55:200060,100:050510&height=220&section=header&text=%E2%9C%A6%20Swastik%20Prakash%20%E2%9C%A6&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source%20Contributor&descSize=16&descFontColor=a090ff&descAlignY=63"/>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00FFF2&center=true&vCenter=true&width=700&lines=Building+AI+that+ships+%E2%80%94+not+just+demos+%F0%9F%9A%80;LLM+Pipelines+%7C+Multimodal+Systems+%7C+NLP;Open+to+internships%2C+GSoC+%26+cool+collabs." alt="Typing SVG"/>
 
+</div>
+
+<br/>
+
+<!-- SOCIALS LEFT · GIF RIGHT -->
+<table border="0" align="center">
+<tr>
+<td valign="middle" align="left" width="55%">
+
+<h3>📬 Find me here</h3>
+
+<a href="mailto:swastikprakashofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="130" alt="Code"/>
-
+<a href="https://www.linkedin.com/in/swastik-prakash-8aa692290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br/><br/>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swastikprakashofficial@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-prakash-8aa692290/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swastik-Prakash1)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Im_Swastik01)
+<a href="https://github.com/Swastik-Prakash1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br/><br/>
+<a href="https://x.com/Im_Swastik01"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=Swastik-Prakash1&label=Profile+Views&color=0e75b6&style=flat"/>
 
-</div>
+</td>
+<td valign="middle" align="center" width="45%">
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="210"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ABOUT ME -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="340"/>
 
 ## `> whoami`
 
 B.Tech CSE junior at **JIIT Noida** (class of '27), building AI systems that actually do useful things.
 
-I like working the full stack of an idea — model design, API architecture, cloud deployment. Less "proof of concept", more "this actually runs".
+I like working the full stack of an idea — model design, API architecture, cloud deployment. Less "proof of concept", more "this actually runs in prod".
 
 ```python
 class Swastik:
     focus    = ["LLM Pipelines", "NLP", "Multimodal AI"]
     open_to  = ["Internships", "GSoC", "Collabs"]
-    fun_fact = "Won an international hackathon once. Still surprised. 🏆"
+    fun_fact = "Hackathon winner. Still googles Python syntax. No regrets. 🏆"
     motto    = "Ship fast. Think deep. Build real."
 ```
 
@@ -77,13 +92,13 @@ class Swastik:
 
 <br/>
 
-<!-- PAC-MAN — one time, as a fun transition into projects -->
+<!-- PAC-MAN — the one fun moment before projects -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
 <!-- PROJECTS -->
 ## 🛠️ Things I've Built
 
-> Three projects. Different problems. Same approach: ship something real.
+> Three projects. Different problems. Same rule: if it doesn't run, it doesn't count.
 
 <br/>
 
@@ -94,9 +109,10 @@ class Swastik:
 ### 🛒 KiranaLens
 `Python` · `OpenCV` · `Geo APIs`
 
-CV + geo-intelligence credit scoring for unbanked Kirana store owners — footfall analysis, visual inventory signals, and location data to build creditworthiness where banks don't reach.
-
-*Poonawalla Fincorp TenzorX 2026*
+- CV pipeline reads footfall & inventory signals from store cameras
+- Geo-intelligence layer builds credit profiles — no bank account needed
+- Targets the unbanked Kirana owners conventional credit models miss
+- *Top 0.5% — Poonawalla Fincorp TenzorX 2026*
 
 </td>
 <td width="50%" valign="top">
@@ -106,7 +122,10 @@ CV + geo-intelligence credit scoring for unbanked Kirana store owners — footfa
 
 `Python` · `Flask` · `Gemini API` · `GCP`
 
-Clinical triage AI with temporal memory, real-time Guardian Mode SOS, and auto-generated SOAP reports from raw patient conversations. Built for reliability, not just demo wow.
+- Multimodal triage AI with temporal memory across sessions
+- Guardian Mode SOS kicks in for real-time emergency escalation
+- Auto-generates structured SOAP reports from raw conversation logs
+- Deployed on GCP — runs in prod, not just on localhost
 
 </td>
 </tr>
@@ -116,7 +135,10 @@ Clinical triage AI with temporal memory, real-time Guardian Mode SOS, and auto-g
 ### 🎙️ HirePrep AI &nbsp;·&nbsp; *50+ beta users*
 `Python` · `FastAPI` · `Gemini API` · `Web Speech API`
 
-Stateful mock interview platform with semantic scoring, real-time speech analysis, and bias-aware evaluation reports. You practice. It listens. It judges — fairly.
+- Full stateful interview simulation with role-specific question banks
+- Real-time speech analysis paired with rubric-driven semantic scoring
+- Generates bias-aware evaluation reports at the end of every session
+- 50+ users, zero ad spend — just a working product people wanted
 
 </td>
 </tr>
@@ -176,7 +198,7 @@ Stateful mock interview platform with semantic scoring, real-time speech analysi
 <br/>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,40:0f1f4a,80:0a1230,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,25:200060,55:0a1240,100:050510&height=120&section=footer"/>
 
 <div align="center">
   <sub><i>"Ship fast. Think deep. Build real."</i></sub>
