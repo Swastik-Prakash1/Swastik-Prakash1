@@ -160,7 +160,7 @@ class Swastik:
 | 💡 | **Top 0.5%** — Poonawalla Fincorp TenzorX 2026 | National |
 | 🏛️ | **National Finalist** — PM Dialogue on Green Viksit Bharat | National |
 | ✅ | Oracle Certified AI Foundations Associate (OCI) | — |
-| ☁️ | Google Cloud Study Jam — GDSC | — |
+| ☁️ | Google Cloud Study Jam — GDG | — |
 
 </div>
 
