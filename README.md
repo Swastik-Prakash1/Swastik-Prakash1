@@ -54,7 +54,7 @@ class Swastik:
     focus    = ["LLM Pipelines", "NLP", "Multimodal AI"]
     open_to  = ["Internships", "GSoC", "Collabs"]
     fun_fact = "Hackathon winner. Still googles Python syntax. No regrets. 🏆"
-    motto    = "Ship fast. Think deep. Build real."
+    motto    = "Ship fast |Think deep |Build real"
 ```
 
 <br clear="right"/>
