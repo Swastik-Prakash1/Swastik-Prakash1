@@ -1,3 +1,4 @@
+<!-- HEADER — ✦ symbols + twinkling stars + vibrant purple gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,25:0a1240,55:200060,100:050510&height=220&section=header&text=%E2%9C%A6%20Swastik%20Prakash%20%E2%9C%A6&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Computer%20Vision&descSize=16&descFontColor=a090ff&descAlignY=63"/>
 
 <div align="center">
@@ -8,6 +9,7 @@
 
 <br/>
 
+<!-- SOCIALS LEFT · GIF RIGHT -->
 <table border="0" align="center">
 <tr>
 <td valign="middle" align="left" width="55%">
@@ -17,6 +19,8 @@
 <a href="mailto:swastikprakashofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br/><br/>
 <a href="https://www.linkedin.com/in/swastik-prakash-8aa692290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br/><br/>
+<a href="https://github.com/Swastik-Prakash1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br/><br/>
 <a href="https://x.com/Im_Swastik01"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
@@ -36,6 +40,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+<!-- ABOUT ME -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="340"/>
 
 ## `> whoami`
