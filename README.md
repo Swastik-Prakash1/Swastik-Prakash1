@@ -200,16 +200,6 @@ Agentic system fusing AIS vessel data, GDELT geopolitical events, oil-market pri
 
 ---
 
-### 🐍 Contribution Graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Swastik-Prakash1/Swastik-Prakash1/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-> Add this via the [`platane/snk`](https://github.com/Platane/snk) GitHub Action in your profile repo to auto-generate this animation from your real contribution graph.
-
----
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
