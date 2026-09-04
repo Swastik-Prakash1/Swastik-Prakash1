@@ -1,205 +1,225 @@
-<!-- HEADER — ✦ symbols + twinkling stars + vibrant purple gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,25:0a1240,55:200060,100:050510&height=220&section=header&text=%E2%9C%A6%20Swastik%20Prakash%20%E2%9C%A6&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source%20Contributor&descSize=16&descFontColor=a090ff&descAlignY=63"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00FFF2&center=true&vCenter=true&width=700&lines=Building+AI+that+ships+%E2%80%94+not+just+demos+%F0%9F%9A%80;LLM+Pipelines+%7C+Multimodal+Systems+%7C+NLP;Open+to+internships%2C+GSoC+%26+cool+collabs." alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Swastik%20Prakash&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Systems%20that%20Think%20in%20Layers%20%E2%80%94%20Deterministic%20%2B%20Learned&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=B.Tech+CSE+%40+JIIT+Noida+(Grad.+2027);Scientific+ML+%C3%97+Multi-Agent+Systems+%C3%97+Computer+Vision;IEEE+Published+Author+%40+IC3-2026;Building+towards+Quant+%2F+ML+Research+Roles" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastik-prakash1)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swastik-Prakash1)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
-<br/>
+---
 
-<!-- SOCIALS LEFT · GIF RIGHT -->
-<table border="0" align="center">
-<tr>
-<td valign="middle" align="left" width="55%">
+### 👋 About Me
 
-<h3>📬 Find me here</h3>
+I'm a **Computer Science Engineering student at Jaypee Institute of Information Technology (JIIT), Noida**, graduating **May 2027**, building AI systems across **scientific ML, multi-agent decision systems, computer vision, multimodal GenAI, geospatial intelligence, and applied FinTech/healthcare**.
 
-<a href="mailto:swastikprakashofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<br/><br/>
-<a href="https://www.linkedin.com/in/swastik-prakash-8aa692290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br/><br/>
-<a href="https://github.com/Swastik-Prakash1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<br/><br/>
-<a href="https://x.com/Im_Swastik01"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+A recurring theme across my work: pairing a **deterministic / physics-grounded layer** with a **learned layer** — using rules, physics, and structured scoring where reliability and auditability matter, and ML/LLMs where perception, prediction, and reasoning add genuine value.
 
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=Swastik-Prakash1&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</td>
-<td valign="middle" align="center" width="45%">
-
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="210"/>
-
-</td>
-</tr>
-</table>
+- 🔭 Currently exploring **ML research & quantitative research roles** (incl. applications to programs like **Jane Street's ML Researcher Internship**)
+- 📄 Co-author on an **IEEE IC3-2026** paper — *"Multi-Predictive Anomaly Detection Ensemble for Dynamic Data Streams in Financial Fraud Detection"*
+- 🛰️ Built an **ISRO Aditya-L1** solar-flare forecasting mission-control system for the **Bharatiya Antariksh Hackathon Grand Finale**
+- 🏆 **1st Place** — Build with Gemini × MLH / Zetech HackDay International 2026
+- 🌱 Currently deepening expertise in **agentic AI systems** and **quantitative / research-grade ML**
+- ⚡ Fun fact: I'd rather engineer a fallback system than let a demo fail
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3c-b5c5-e1f2b48a4396.gif" width="500">
+</div>
 
-<!-- ABOUT ME -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="340"/>
+---
 
-## `> whoami`
+### 🧬 Architectural Philosophy
 
-B.Tech CSE junior at **JIIT Noida** (class of '27), building AI systems that actually do useful things.
+<div align="center">
 
-I like working the full stack of an idea — model design, API architecture, cloud deployment. Less "proof of concept", more "this actually runs in prod".
-
-```python
-class Swastik:
-    focus    = ["LLM Pipelines", "NLP", "Multimodal AI"]
-    open_to  = ["Internships", "GSoC", "Collabs"]
-    fun_fact = "Hackathon winner. Still googles Python syntax. No regrets. 🏆"
-    motto    = "Ship fast |Think deep |Build real"
+```
+   Deterministic Layer (physics / rules / structured scoring)
+                        +
+       Learned Layer (LLMs / deep nets / perception)
+                        =
+        Reliable, Auditable, Genuinely Intelligent Systems
 ```
 
-<br clear="right"/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- SKILLS -->
-<h2 align="center">⚡ Tech Stack &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"/></h2>
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark"/>
-
-<br/>
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🤗_Transformers-FFAA00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gemini_API-886FBF?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-
-<br/>
-
-**Backend & Cloud**
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,gcp,git&theme=dark"/>
-
 </div>
 
-<br/>
+| Project | Deterministic Layer | Learned Layer |
+|---|---|---|
+| 🛰️ BiSolar Guard | Neupert-effect physics, 3-regime flux calibration | TCN (BiSolarHazardNet) + LightGBM ensemble |
+| 🚨 CrisisOS | Utility-based commander arbitration | Gemini-generated decision explanations |
+| 🏪 KiranaLens | Deterministic economic underwriting rules | YOLOv8 vision + Llama Vision fraud reasoning |
+| 🩺 MediMind | Rule-based Guardian Mode (emergency triggers) | Multimodal Gemini clinical reasoning |
+| 🚢 ChokePoint AI | Weighted quantitative convergence score | Agentic Llama-3.3-70B scenario reasoning |
+| 🐄 Cattle Muzzle ID | Explicit OpenCV geometry extraction | ConvNeXt + ViT + ArcFace metric learning |
 
-<!-- PAC-MAN — the one fun moment before projects -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+---
 
-<!-- PROJECTS -->
-## 🛠️ Things I've Built
-
-> Three projects. Different problems. Same rule: if it doesn't run, it doesn't count.
-
-<br/>
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 KiranaLens
-`Python` · `OpenCV` · `Geo APIs`
+#### 🛰️ [BiSolar Guard](https://github.com/Swastik-Prakash1)
+**ISRO Aditya-L1 Solar Flare Nowcasting & Forecasting Mission Control**
 
-- CV pipeline reads footfall & inventory signals from store cameras
-- Geo-intelligence layer builds credit profiles — no bank account needed
-- Targets the unbanked Kirana owners conventional credit models miss
-- *Top 0.5% — Poonawalla Fincorp TenzorX 2026*
+End-to-end space-weather intelligence system fusing SoLEXS/HEL1OS/GOES telemetry. Physics-based Neupert-effect nowcasting + custom TCN (**BiSolarHazardNet**, ~160K params) + LightGBM 15-min forecasting, served via real-time FastAPI/WebSocket mission control.
+
+`183,470` training windows · `88` engineered features · Presented at **ISRO Bharatiya Antariksh Hackathon Grand Finale**
+
+`Python` `PyTorch` `LightGBM` `FastAPI` `WebSockets`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 MediMind
-> 🏆 1st Place — Zetech HackDay 2026 (International)
+#### 🚨 [CrisisOS](https://github.com/Swastik-Prakash1)
+**Autonomous Multi-Agent Disaster Response Operating System**
 
-`Python` · `Flask` · `Gemini API` · `GCP`
+Five specialized agents (Commander, Intelligence, Logistics, Medical, Prediction) coordinating under uncertainty on a **real Delhi road network**. Deterministic utility-based arbitration decides — LLMs only explain. A* rerouting, START triage, human-override ledger.
 
-- Multimodal triage AI with temporal memory across sessions
-- Guardian Mode SOS kicks in for real-time emergency escalation
-- Auto-generates structured SOAP reports from raw conversation logs
-- Deployed on GCP — runs in prod, not just on localhost
+**FAR AWAY International Hackathon 2026** — Agentic & Autonomous Systems
+
+`FastAPI` `React` `OSMnx` `Gemini` `WebSockets`
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%" valign="top">
 
-### 🎙️ HirePrep AI &nbsp;·&nbsp; *50+ beta users*
-`Python` · `FastAPI` · `Gemini API` · `Web Speech API`
+#### 🏪 [KiranaLens](https://github.com/Swastik-Prakash1)
+**Visual Credit Bureau for India's Kirana Economy**
 
-- Full stateful interview simulation with role-specific question banks
-- Real-time speech analysis paired with rubric-driven semantic scoring
-- Generates bias-aware evaluation reports at the end of every session
-- 50+ users, zero ad spend — just a working product people wanted
+Estimates a kirana store's financial health from **3–5 photos + GPS** — no bank statements needed. YOLOv8 vision intelligence, geospatial signals, operational-stability & regional-demand-alignment scoring, and two-layer fraud detection with Llama Vision.
+
+**Top 150** — Poonawalla Fincorp National AI Hackathon
+
+`FastAPI` `YOLOv8` `OSMnx` `React` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐄 [Cattle Muzzle Identification](https://github.com/Swastik-Prakash1)
+**Geometry-Guided Hybrid Network for Biometric ID (Research)**
+
+Tri-branch architecture — ConvNeXt-Tiny+CBAM (texture), explicit OpenCV geometry, ViT-Small (global context) — fused into a 256-d **ArcFace** embedding. Built during a **CV research internship at MMMUT**.
+
+`99.02%` accuracy · `100%` top-5 · `0.9999` ROC-AUC · 6 ablations · Grad-CAM + calibration
+
+`PyTorch` `ConvNeXt` `ViT` `ArcFace` `OpenCV`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🩺 [MediMind](https://github.com/Swastik-Prakash1)
+**AI Clinical Triage & Emergency Companion**
+
+Multimodal (text/voice/image) triage assistant with persistent patient memory, a deterministic **Guardian Mode** for emergency detection, risk stratification, and auto-generated SOAP clinical reports.
+
+🥇 **1st Place** — Build with Gemini × MLH / Zetech HackDay International 2026
+
+`Flask` `Gemini` `Web Audio API`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚢 [ChokePoint AI](https://github.com/Swastik-Prakash1)
+**Maritime Chokepoint & Energy Supply Chain Intelligence**
+
+Agentic system fusing AIS vessel data, GDELT geopolitical events, oil-market prices, and sanctions data into a quantitative **convergence risk score**, with agents for risk fusion, scenario modelling, and rerouting.
+
+`FastAPI` `React` `Leaflet` `Groq Llama-3.3-70B`
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary><b>📂 More projects — HirePrep AI · Should I?</b></summary>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+- **[HirePrep AI](https://github.com/Swastik-Prakash1/Hire-Prep-AI)** — Adaptive AI HR interview platform with voice, live camera, and Gemini-driven context-aware follow-up questions.
+- **[Should I?](https://github.com/Swastik-Prakash1/Should-i-Ai)** — Chrome extension using transformer-based NLP to flag suspicious product reviews (🟢 Safe / 🟡 Caution / 🔴 High Risk).
 
-<!-- ACHIEVEMENTS -->
-## 🏆 Achievements
+</details>
+
+---
+
+### 📄 Publication
+
+> **Multi-Predictive Anomaly Detection Ensemble for Dynamic Data Streams in Financial Fraud Detection**
+> IEEE IC3-2026 · with Santosh Kumar Ray, Ananya Goel, Devansh Tomar
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
-| | Achievement | Scope |
-|:---:|:---|:---:|
-| 🥇 | **1st Place** — Build with Gemini × MLH, Zetech HackDay 2026 | International |
-| 🌐 | **Top 0.3%** — MY Bharat Budget Quest (12 Lakh+ participants) | National |
-| 💡 | **Top 0.5%** — Poonawalla Fincorp TenzorX 2026 | National |
-| 🏛️ | **National Finalist** — PM Dialogue on Green Viksit Bharat | National |
-| ✅ | Oracle Certified AI Foundations Associate (OCI) | — |
-| ☁️ | Google Cloud Study Jam — GDG | — |
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,flask,react,ts,js,html,css,cpp,git,github,docker,postgres,nodejs&theme=dark" />
+
+<br/><br/>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-1E90FF?style=flat-square&logo=lightgbm&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=flat-square&logo=socketdotio&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
 </div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Swastik-Prakash1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik-Prakash1&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Swastik-Prakash1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik-Prakash1&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik-Prakash1&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Swastik-Prakash1&theme=radical&hide_border=true" width="57%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Swastik-Prakash1&theme=tokyonight&no-frame=true&row=1&column=6" />
+
 </div>
 
-<br/>
+---
+
+### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swastik-Prakash1&theme=react-dark&hide_border=true&area=true&color=00fff2&line=00fff2&point=ffffff&area_color=001830" width="98%"/>
+<img src="https://raw.githubusercontent.com/Swastik-Prakash1/Swastik-Prakash1/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-<br/>
+> Add this via the [`platane/snk`](https://github.com/Platane/snk) GitHub Action in your profile repo to auto-generate this animation from your real contribution graph.
+
+---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Swastik-Prakash1&theme=radical&no-frame=true&column=7&margin-w=8" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+
+### 💬 Let's talk science, systems, and shipping
+
+*"Use deterministic logic where reliability matters. Use learned models where reasoning adds real value."*
+
+<img src="https://komarev.com/ghpvc/?username=Swastik-Prakash1&style=for-the-badge&color=6366f1" />
+
 </div>
 
-<br/>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,25:200060,55:0a1240,100:050510&height=120&section=footer"/>
-
-<div align="center">
-  <sub><i>"Ship fast. Think deep. Build real."</i></sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer" width="100%"/>
