@@ -110,7 +110,7 @@ Estimates a kirana store's financial health from **3–5 photos + GPS** — no b
 
 Tri-branch architecture — ConvNeXt-Tiny+CBAM (texture), explicit OpenCV geometry, ViT-Small (global context) — fused into a 256-d **ArcFace** embedding. Built during a **CV research internship at MMMUT**.
 
-`99.02%` accuracy · `100%` top-5 · `0.9999` ROC-AUC · 6 ablations · Grad-CAM + calibration
+`99.02%` accuracy · `99.02%` top-5 · `0.9999` ROC-AUC · 6 ablations · Grad-CAM + calibration
 
 `PyTorch` `ConvNeXt` `ViT` `ArcFace` `OpenCV`
 
